@@ -1,6 +1,4 @@
-package com.concurrent;
-
-import java.util.concurrent.TimeUnit;
+package com.concurrent.thread.main.test;
 
 /**
  * @author dxw
