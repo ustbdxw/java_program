@@ -80,7 +80,6 @@ class SemaphoreTest {
                 System.out.println(Thread.currentThread().getName()+"停车2秒后离开车位");
                 semaphore.release();
             }).start();
-            
         }
     }
 }
